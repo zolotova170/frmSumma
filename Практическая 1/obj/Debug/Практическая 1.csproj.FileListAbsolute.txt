@@ -1,0 +1,21 @@
+C:\Users\Администратор\source\repos\Практическая 1\Практическая 1\bin\Debug\Практическая 1.exe.config
+C:\Users\Администратор\source\repos\Практическая 1\Практическая 1\bin\Debug\Практическая 1.exe
+C:\Users\Администратор\source\repos\Практическая 1\Практическая 1\bin\Debug\Практическая 1.pdb
+C:\Users\Администратор\source\repos\Практическая 1\Практическая 1\obj\Debug\Практическая 1.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Практическая 1\Практическая 1\obj\Debug\Практическая_1.frmSumma.resources
+C:\Users\Администратор\source\repos\Практическая 1\Практическая 1\obj\Debug\Практическая_1.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Практическая 1\Практическая 1\obj\Debug\Практическая 1.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Практическая 1\Практическая 1\obj\Debug\Практическая 1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Практическая 1\Практическая 1\obj\Debug\Практическая 1.exe
+C:\Users\Администратор\source\repos\Практическая 1\Практическая 1\obj\Debug\Практическая 1.pdb
+C:\Users\Михаил\source\repos\labwork1-master\Практическая 1\Практическая 1\bin\Debug\Практическая 1.exe.config
+C:\Users\Михаил\source\repos\labwork1-master\Практическая 1\Практическая 1\bin\Debug\Практическая 1.exe
+C:\Users\Михаил\source\repos\labwork1-master\Практическая 1\Практическая 1\bin\Debug\Практическая 1.pdb
+C:\Users\Михаил\source\repos\labwork1-master\Практическая 1\Практическая 1\obj\Debug\Практическая 1.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\labwork1-master\Практическая 1\Практическая 1\obj\Debug\Практическая 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Михаил\source\repos\labwork1-master\Практическая 1\Практическая 1\obj\Debug\Практическая_1.frmSumma.resources
+C:\Users\Михаил\source\repos\labwork1-master\Практическая 1\Практическая 1\obj\Debug\Практическая_1.Properties.Resources.resources
+C:\Users\Михаил\source\repos\labwork1-master\Практическая 1\Практическая 1\obj\Debug\Практическая 1.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\labwork1-master\Практическая 1\Практическая 1\obj\Debug\Практическая 1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\labwork1-master\Практическая 1\Практическая 1\obj\Debug\Практическая 1.exe
+C:\Users\Михаил\source\repos\labwork1-master\Практическая 1\Практическая 1\obj\Debug\Практическая 1.pdb
